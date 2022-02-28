@@ -1,0 +1,50 @@
+Ideas for specs project
+    - car ranking site statistics, mpg/ top speed/ zero to 60/ size/ trunk space/ wheel size/ etc.
+    - mls statistics website
+    - recreate google maps
+    - recretae a payment processor and or crypto currency tracker
+    - create a private jet tracker
+
+Hobbies:
+    -sports
+    -cars
+    -crypto
+    -games
+    -thinking
+    -flying
+    -travel
+    -tropical areas
+    -boating
+    -beer
+
+Daily Activities:
+    -brushing teeth
+    -making bed
+    -watching videos/ pluralsight/ youtube/ educational docs
+    -spending time with Nova
+    -coding
+    -working out
+    -cooking
+    -running
+
+Problems to solve:
+    -how to meal prep
+    -how to motivate
+    -correct financial decisions
+    -what workout should I do?
+    -what should I be eating?
+    -what game should I play?
+    -What should I be strudying?
+    -how can I better plan
+    -How can I be more productive?
+    -how can I help others in my local area?
+    -where can I meet new people who have similar intersts when I'm in a new area?
+
+Friends and Family ideas:
+    -small project management tracker
+    TIFF convo:
+    -commercial app
+    -automate sending contract to customers on retainer for companies to create ticket
+    -track everything, automated contracts
+    -allow scheduling, SOS button, calender
+    -tiered phases///
