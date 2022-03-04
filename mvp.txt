@@ -1,0 +1,17 @@
+Soccer statistics kaggle https://www.kaggle.com/hugomathien/soccer
+
+Creating my own api using https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/
+
+changing data from sqlite to postgres https://www.dbsofts.com/articles/sqlite_to_postgresql/
+
+MVP:
+Allow users to compare teams
+Allow users to compare players
+Allow users to see teams locations on maps
+Save favorite team and add logo to homepage
+Save favorite players
+User auth
+
+
+Future Features:
+Web Scraper to add current team news and current schedules
